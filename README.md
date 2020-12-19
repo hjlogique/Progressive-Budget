@@ -19,7 +19,7 @@
   
    Next type `npm start` to start the server and run the application.  This application generates a `MongoDB` database called `budget` with a collection called `transactions`. 
 
-  This application is deployed with [Heroku](https://www.heroku.com/home), and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/signup). You can access it [here](https://stormy-inlet-08148.herokuapp.com/) (wait a few seconds for the site to load the information).
+  This application is deployed with [Heroku](https://www.heroku.com/home), and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/signup). You can access it [here](https://stormy-inlet-08148.herokuapp.com/). (It might take a few seconds for the site to load the information)
 
   
   ## Usage 
